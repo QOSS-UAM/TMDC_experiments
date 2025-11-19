@@ -4,7 +4,7 @@
 Welcome to the "TMDC experiments" repository of the Quantum Optics in the Solid-State group at the Universidad Autónoma de Madrid.
 This repository collects the tools, analysis pipelines, and experiment-control code used in our research on transition-metal dichalcogenides (TMDs) and Moiré heterostructures.
 
-#### Our focus spans cryogenic photoluminescence, spectroscopy, single-photon emission, and polarization-resolved experiments on 2D materials such as WSe₂, MoSe₂ and their twisted heterobilayers.
+#### Our focus spans cryogenic photoluminescence, ultrafast spectroscopy, single-photon emission, and polarization-resolved experiments on 2D materials such as WSe₂, MoSe₂ and their twisted heterobilayers.
 
 ## 🎯 Purpose
 
@@ -17,9 +17,9 @@ This repository collects the tools, analysis pipelines, and experiment-control c
 (waveplate control, Jones/Stokes reconstruction, Mueller–Jones transformations)
 
 - Performing correlation measurements
-g⁽¹⁾(τ) visibility functions
-g⁽²⁾(τ) antibunching/bunching fitting
-Spatial and polarization correlations of Moiré excitons
+  - g⁽¹⁾(τ) visibility functions
+  - g⁽²⁾(τ) antibunching/bunching fitting
+  - Spatial and polarization correlations of Moiré excitons
 
 - Organizing measurement automation scripts
 for cryogenic setups, rotation stages, and spectral scans
